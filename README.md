@@ -22,7 +22,7 @@ This is a fork of https://github.com/themsaid/laravel-langman
 Begin by installing the package through Composer. Run the following command in your terminal:
 
 ```
-$ composer require oscar-team/laravel-langman
+composer require oscar-team/laravel-langman
 ```
 
 Once done, add the following line in your providers array of `config/app.php`:
